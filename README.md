@@ -1,2 +1,2 @@
 # YAR-Project
-Begineer Project
+Beginner Project for collaboration.
