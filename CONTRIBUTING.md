@@ -1,1 +1,1 @@
-Let's craete this file for tracking our contributions.
+Let's create this file for tracking our contributions.
